@@ -1,5 +1,6 @@
 +++
-title = "My presentation"
+title = "Gutenburg - WYSIWYG"
+description = "presentation slides for Boise WordPress Meetup"
 outputs = ["Reveal"]
 +++
 
