@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://slides.matthewselby.com/"
 languageCode = "en-us"
-title = "Slides for Boise WordPress Meetup - Gutenburg Presentation"
+title = "Slides by Matthew Selby"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 
