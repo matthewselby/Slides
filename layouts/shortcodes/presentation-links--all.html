@@ -1,0 +1,6 @@
+<!-- get a link for all presentations "Sections" -->
+{{ range $section, $taxonomy := .Site.Sections }}
+    <ul>
+        <li><a href="{{ .Permalink }}"> {{ .LinkTitle }} </a> </li>
+    </ul>
+{{ end }}
