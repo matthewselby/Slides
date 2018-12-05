@@ -1,8 +1,8 @@
----
++++
 title = "My presentation"
 outputs = ["Reveal"]
----
++++
 
-# Hello World
+# Hello world!
 
-some text goes here
+This is my first slide.
