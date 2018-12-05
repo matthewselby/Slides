@@ -1,5 +1,6 @@
 baseURL = "https://slides.matthewselby.com/"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "Slides by Matthew Selby"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
@@ -14,10 +15,6 @@ margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
-
-[params.reveal_hugo.templates.hotpink]
-class = "hotpink"
-background = "#FF4081"
 
 [outputFormats.Reveal]
 baseName = "index"
