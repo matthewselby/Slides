@@ -9,7 +9,7 @@ name = "Matthew Selby"
 
 [params.reveal_hugo]
 history = true
-custom_theme = "themes/robot-lung.css"
+custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
