@@ -1,3 +1,16 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Slides for Boise WordPress Meetup - Gutenburg Presentation"
+disableKinds = ["sitemap", "RSS"]
+theme = "reveal-hugo"
+
+[author]
+name = "Matthew Selby"
+
+[params.reveal_hugo]
+history = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
