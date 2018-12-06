@@ -47,24 +47,65 @@ Matt Mullenweg puts it this way...
 
 ---
 
-# Sounds great!!
+# Sounds great!! 👍
 
 So where can I get Gutenberg?
 
-{{% note %}}
+{{% fragment %}} It comes as the default editor in **WordPress 5.0** {{% /fragment %}}
 
-- Plugin "if using WP 4.8+"
+{{% fragment %}} ...and it launched today! 🎉 {{% /fragment %}}
+
+{{% fragment %}} Also as a [plugin](https://wordpress.org/plugins/gutenberg/) if you are runing **WordPress 4.8 or higher** {{% /fragment %}}
+
+{{% note %}}
+Where do I get Gutenberg??
+
+Funny you should ask...
+
 - WP 5.0 - and it launched today!
+- Plugin "if using WP 4.8+"
 
 ..just for us ;)
-
 {{% note %}}
 
 ---
 
-# Sounds aweful!!
+# Sounds aweful!! 👎
 
 Can I keep the classic editor?
 
+{{% fragment %}} *Sort of, kinda of?* {{% /fragment %}}
 
+{{% fragment %}} theres a plugin for that, [Classic Editor](https://wordpress.org/plugins/classic-editor/) {{% /fragment %}}
 
+{{% note %}}
+Sort of, kind of
+{{% note %}}
+
+---
+
+{{< slide background-image="/images/2018/gutenberg/classic-editor-search.jpeg" >}}
+
+---
+
+{{< slide background-image="/images/2018/gutenberg/classic-editor-settings.jpeg" >}}
+
+---
+
+# So why's it called Gutenberg?
+
+*and not something cool like WordPress Visual Editor*
+
+---
+
+![Johannaes Gutenberg](/images/2018/gutenberg/johannes-gutenberg.jpg)
+
+It is named after **Johannes Gutenberg**, who invented a printing press with movable type more than 500 years ago.
+
+---
+
+# Cool but...
+
+### Lets see some Gutenberg already!!
+
+*...but we just saw him* 😉

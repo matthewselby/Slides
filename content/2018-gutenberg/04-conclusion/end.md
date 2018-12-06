@@ -2,6 +2,4 @@
 outputs = ["Reveal"]
 +++
 
-# Hello world!
-
-This is my first slide.
+# That's all for now ✌
