@@ -1,19 +1,12 @@
 +++
-title = "Gutenburg - WYSIWYG"
+title = "WordPress Gutenburg"
 description = "presentation slides for Boise WordPress Meetup"
+date = '2018-12-06'
+tags = [ "WordPress", "Gutenberg" ]
+categories = [ "WordPress" ]
 outputs = ["Reveal"]
 +++
 
-# Hello world!
+# Gutenberg
 
-This is my first slide.
-
----
-
-## Slide 2
-
-awwww yeah
-
----
-
-## Slide 3 FTW
+WYSIWYG **↔** What You See Is What You Get?
