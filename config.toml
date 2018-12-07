@@ -2,8 +2,10 @@ baseURL = "https://slides.matthewselby.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Slides by Matthew Selby"
-disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
+
+# had some trouble with hugo multilingual not liking a monolingual site --added taxonomyTerm
+disableKinds = ["sitemap", "RSS", "taxonomyTerm", "taxonomy"]
 
 [author]
 name = "Matthew Selby"
