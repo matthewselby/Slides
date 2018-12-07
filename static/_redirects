@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://matthewselby-slides.netlify.com/* http://slides.matthewselby.com/:splat 301!
