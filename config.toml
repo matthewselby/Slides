@@ -3,6 +3,7 @@ languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Slides by Matthew Selby"
 theme = "reveal-hugo"
+enableRobotsTXT = true
 
 # had some trouble with hugo multilingual not liking a monolingual site --added taxonomyTerm
 disableKinds = ["sitemap", "RSS", "taxonomyTerm", "taxonomy"]
