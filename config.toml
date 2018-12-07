@@ -6,7 +6,7 @@ theme = "reveal-hugo"
 enableRobotsTXT = true
 
 # had some trouble with hugo multilingual not liking a monolingual site --added taxonomyTerm
-disableKinds = ["sitemap", "RSS", "taxonomyTerm", "taxonomy"]
+disableKinds = ["sitemap", "RSS", "404", "taxonomyTerm", "taxonomy"]
 
 [author]
 name = "Matthew Selby"
