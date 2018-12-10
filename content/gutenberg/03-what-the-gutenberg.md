@@ -17,7 +17,7 @@ So what the heck is gutenberg and why should I care?
 
 ---
 
-![gutenberg](/images/2018/gutenberg/gutenberg-logo-long.jpg)
+![gutenberg](/gutenberg/images/gutenberg-logo-long.jpg)
 
 [Gutenberg](https://wordpress.org/gutenberg/) is the new visual editing experience for WordPress.
 
@@ -84,11 +84,11 @@ Sort of, kind of
 
 ---
 
-{{< slide background-image="/images/2018/gutenberg/classic-editor-search.jpeg" >}}
+{{< slide background-image="/gutenberg/images/classic-editor-search.jpeg" >}}
 
 ---
 
-{{< slide background-image="/images/2018/gutenberg/classic-editor-settings.jpeg" >}}
+{{< slide background-image="/gutenberg/images/classic-editor-settings.jpeg" >}}
 
 ---
 
@@ -98,7 +98,7 @@ Sort of, kind of
 
 ---
 
-![Johannaes Gutenberg](/images/2018/gutenberg/johannes-gutenberg.jpg)
+![Johannaes Gutenberg](/gutenberg/images/johannes-gutenberg.jpg)
 
 It is named after **Johannes Gutenberg**, who invented a printing press with movable type more than 500 years ago.
 

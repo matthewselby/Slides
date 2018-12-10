@@ -3,7 +3,7 @@ outputs = ["Reveal"]
 weight = 2
 +++
 
-![Matthew Selby](/images/2018/gutenberg/matthew-selby.jpg "Matthew Selby")
+![Matthew Selby](/gutenberg/images/matthew-selby.jpg "Matthew Selby")
 
 # Matthew Selby
 
@@ -21,7 +21,7 @@ I recently moved to Nampa and I love being here in Idaho.
 
 ---
 
-{{< slide background-image="/images/2018/gutenberg/flywheel.jpg" >}}
+{{< slide background-image="/gutenberg/images/flywheel.jpg" >}}
 
 {{% note %}}
 

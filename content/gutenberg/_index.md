@@ -1,7 +1,10 @@
 +++
+baseURL = "/gutenberg"
 title = "WordPress Gutenberg"
 description = "presentation slides for Boise WordPress Meetup"
 date = '2018-12-06'
+publishDate = '2018-12-06'
+datePresented = '2018-12-06'
 tags = [ "WordPress", "Gutenberg" ]
 categories = [ "WordPress" ]
 outputs = ["Reveal"]
