@@ -6,7 +6,7 @@ outputs = ["Reveal"]
 
 # 📽
 
-# Hello world!
+# Oh, hi there
 
 🎉 this is where I keep my presentations 🎉
 
